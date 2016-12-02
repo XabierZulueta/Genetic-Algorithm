@@ -1,4 +1,4 @@
 # Genetic-Algorithm
-**Genetic Algorithm C++/Java**
-**Author:** *Xabier Zulueta Odriozola*
-**University:** *Universidad Francisco de Vitoria*
+**Genetic Algorithm C++/Java**</br>
+**Author:** *Xabier Zulueta Odriozola*</br>
+**University:** *Universidad Francisco de Vitoria*</br>
