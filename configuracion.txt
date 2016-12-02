@@ -1,0 +1,391 @@
+GR-05: Xabier Zulueta, Diego Martínez Garrote, Juan José Martínez
+0:14:4 Día: 2 Mes: 12 Año: 2016
+
+Target introducido: MI MAMA ME MIMA
+
+<-- Valores recogidos del archivo 'configuracion.cfg' -->
+Ltar: 15
+NC: 27
+NI: 100
+NTOTAL: 100
+Q: 0.97
+
+<-- RESUMEN GENERACIÓN (50) -->
+Mejor individuo: HI SAMA BE MI U
+Nº de coincidencias máximo: 10 - 66.6667%
+Nº de targets: 0
+Individuo consenso: SI XAMA BE WI  
+Nº de coincidencias medio: 8 - 53.3333%
+<-- RESUMEN GENERACIÓN (100) -->
+Mejor individuo: MI PAMA BE MIHA
+Nº de coincidencias máximo: 12 - 80%
+Nº de targets: 0
+Individuo consenso: MI  AMA BE MIHA
+Nº de coincidencias medio: 11 - 73.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI PAMA BE MIHA
+MI  AMA HE MI A
+MX  AMA BE MIHA
+YI  AMA HE MIEA
+MI  AMA HL MI A
+MI  AMA UO MIHA
+MI  AMA HE MI A
+MI  AMA HE MIZA
+MI  AMA BE PIHA
+MI  AMA HE MISA
+MI  AMA HE MISA
+MI  AMA BE MIHA
+NI  AMA BE MIHA
+MI  AMA BE MIHA
+MI  AMA HE MI A
+MI  ALA BE MILA
+MI  AMA BE MIHA
+MI  AMA HE MI A
+MI  AMA BE MIHA
+MI  AMA UE MIHA
+
+<-- RESUMEN GENERACIÓN (150) -->
+Mejor individuo: MI  AMA HE MIMA
+Nº de coincidencias máximo: 13 - 86.6667%
+Nº de targets: 0
+Individuo consenso: MI  AMA HE MI A
+Nº de coincidencias medio: 11 - 73.3333%
+<-- RESUMEN GENERACIÓN (200) -->
+Mejor individuo: MI WAMA ME MIMA
+Nº de coincidencias máximo: 14 - 93.3333%
+Nº de targets: 0
+Individuo consenso: MI  AMA ME MIMA
+Nº de coincidencias medio: 13 - 86.6667%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI  AMAGFE MIMA
+MI WAMA ME MIMA
+RI UAMA HE SIMA
+MI IAMA ME MRMA
+MI NAMA ME MIMA
+MI DAMA ME MIVA
+MI  AMA HE MIMA
+MIVWAMD ME MIMA
+MI WAMA ME MIMK
+MI WAMANME MIBA
+MI  AMA HE MIMA
+MI  AMA ME MIMI
+MID AMA ME MIMA
+MI  ARA ME MIMA
+MI DAMA ME MIMA
+MI  AMATME MIMA
+MI DAMA MV MIMA
+MI WAMA ME MIMA
+MI  SMA HE MIMA
+MI  AMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (250) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 51
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (300) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 44
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA ME MIMV
+MI MAMA ME MIMA
+II MAMA MEGMIMA
+MI MAMA MEQMIMA
+MI DAHA QE MIMA
+MI MAWAVME MIMP
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAUA ME MIMH
+MI MKMX ME MIMA
+MI MAMA KE MIMA
+MI MAMA ME MIMH
+ I MAMA ME MIMA
+MI MAMA MEUMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (350) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 56
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (400) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 53
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MU MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI M MA ME MIMA
+MI MAMA ME MIMA
+MI MAMA JE OIMA
+MZ MAMA ME MIMA
+MI MAMA JE MIMA
+MI MAMA ME MIMA
+MH MAMA ME MIMA
+MI MAMA KE MIMA
+MI MAMA ME MIMA
+MI MAMA ME ZIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI TAMA ME MIMA
+MY MAMA ME MIMA
+MI MAMA VE MIMA
+MI MAM  ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (450) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 57
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (500) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 55
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMAIME MIMA
+MI MAMA MC MIMA
+MI CAMA ME MYMA
+MIZMAMA ME MIMA
+MIQCAMW ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMG
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA MEDMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAWN MEMMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MASA ME MIMA
+MI UAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (550) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 50
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (600) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 46
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI BAMA MZ MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIOA
+MI ZADALME MIMA
+MI MAMA ME MIMA
+MI MAMALME MIMA
+M  MAMA ME MIMA
+MI MAMA ME MHMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME BIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (650) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 39
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (700) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 46
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA MG MIMA
+MI MAMA MJ MIMA
+MI MAMASME MIMT
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIDA
+MI ZAMA ME MIMA
+MI MAMA DE MIMA
+MI MAMA ME MINA
+MN MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMAFME MIMA
+MI MAHA ME YIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (750) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 42
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (800) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 39
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA ME MIMA
+MI MAMA ME MIOA
+MI MAMA ME MIMA
+MI MAMA ME MIUA
+MI MAM  ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMAFME MIMA
+MI MAMA ZE MIMA
+MI YAMA ME MIM 
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MA MAMA MT MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+CI MAMA ME MIMA
+MI MAMA ME MINA
+MI MALA ME MIMA
+MI MAMA ZE MIMA
+
+<-- RESUMEN GENERACIÓN (850) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 36
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (900) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 49
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI AAMA ME MIMA
+RY MOAA ME MIMA
+ I MAAA ME MIMA
+MI MAMA ME IIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MITMAMA ME MIMA
+MI HAMA ME MIMA
+MI MAMA ME MIMA
+MQ MAMA ME MIMW
+MI MAMA ME MIMA
+MI MARA ME MIMA
+MT MAMA ME MIMA
+MI HAMA ME MIMA
+MI HAMA MP MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (950) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 44
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+<-- RESUMEN GENERACIÓN (1000) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 50
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA MEEMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIVA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MIHMAZA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME TIMA
+MI MAMD ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MUMAVME MIMA
+ME MAMA MECMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+
+<-- POBLACIÓN TOTAL (20%) -->
+MI MAMA MEEMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIVA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MIHMAZA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME TIMA
+MI MAMD ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MUMAVME MIMA
+ME MAMA MECMIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+MI MAMA ME MIMA
+
+<-- RESUMEN GENERACIÓN (1000) -->
+Mejor individuo: MI MAMA ME MIMA
+Nº de coincidencias máximo: 15 - 100%
+Nº de targets: 50
+Individuo consenso: MI MAMA ME MIMA
+Nº de coincidencias medio: 14 - 93.3333%
